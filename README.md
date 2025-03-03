@@ -86,5 +86,6 @@ Sau khi chạy xong:
 
 ## 6. Ghi chú
 - Đảm bảo `.env` của backend và `.env.local` của frontend được thiết lập đúng.
+- Vì lí do chính sách của github không cho phép push các key firebase lên nên cần tải file đã nén providers và đặt thư mục vào src của backend
 
 
