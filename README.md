@@ -31,16 +31,10 @@ backend/
   ├── .env
   ├── package.json
   ├── tsconfig.json
-frontend/
-  ├── pages/
-  ├── components/
-  ├── .env.local
-  ├── package.json
-  ├── tsconfig.json
 ```
 
 ## 3. Cấu hình môi trường
-### Backend (.env)
+### Bjsonnd (.env)
 ```env
 DB_URL=mongodb+srv://hieu78544:LeMinhHieu@cluster0.dndew.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 JWT_SECRET=leminhhieu
